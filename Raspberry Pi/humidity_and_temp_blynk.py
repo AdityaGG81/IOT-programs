@@ -3,7 +3,7 @@ import BlynkLib
 import time
 
 # Blynk authentication token
-BLYNK_AUTH = 'kKP5406Uy5TZlOf9pMMOwdSRbzzAIREm'
+BLYNK_AUTH = 'AUTH_TOKEN'
 
 # Initialize Blynk
 blynk = BlynkLib.Blynk(BLYNK_AUTH, server="blynk.cloud", port=80)
