@@ -16,7 +16,7 @@ try:
             GPIO.output(LED_PIN, GPIO.HIGH)
             print("Obstacle Detected")
         else:
-            print("Obstacle Not Detected")
+            print("No obstacle is detected")
             GPIO.output(LED_PIN, GPIO.LOW)
         time.sleep(0.1)
 
