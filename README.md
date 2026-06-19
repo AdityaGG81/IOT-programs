@@ -1,3 +1,5 @@
 # IOT-programs
 
-i am making an sample pr to test my app
+writing readme is imprtant below is comprohensive readme of the repo
+
+A comprehensive explanation of the repo 
